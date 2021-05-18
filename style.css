@@ -1,11 +1,15 @@
-input{
+#search{
 border-radius: 20px;
 border-color: aqua;
+background-color: white;
 text-align: center;
 border-style: solid;
 color: aqua;
-margin-bottom: 10px;
-}
+width: 75px;
+height: 15px;
+font-size: 7px;
+margin-bottom: 10px;}
+
 #plus{
 border-radius: 50%;
 color: aliceblue;
